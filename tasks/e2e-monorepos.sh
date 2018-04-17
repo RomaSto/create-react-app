@@ -127,7 +127,7 @@ verifyTest
 # Test create-react-app inside workspace
 # ******************************************************************************
 # npx create-react-app --internal-testing-template="$root_path"/packages/react-scripts/fixtures/yarn-ws/ws/cra-app1 cra-app2
-# -- above needs https://github.com/facebookincubator/create-react-app/pull/3435 to user create-react-app
+# -- above needs https://github.com/RomaSto/create-react-app/pull/3435 to user create-react-app
 popd
 
 # Cleanup
